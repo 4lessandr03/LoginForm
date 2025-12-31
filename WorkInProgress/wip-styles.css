@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg);
+}
+
+.wip-container {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
