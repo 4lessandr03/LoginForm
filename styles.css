@@ -1,0 +1,70 @@
+body {
+    background: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg);
+}
+
+/* LOGIN FORM */
+.login-form {
+    background-color: transparent;
+    width: 25%;
+    height: 25%;
+    margin: auto;
+}
+
+.login-form label {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: 10px;
+}
+
+.login-form input {
+    box-shadow: 5px 5px 5px grey;
+    width: 90%;
+    height: 30px;
+    margin: 10px;
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+.login-form h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.login-form a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: medium;
+    margin: 40px;
+}
+
+/* SIGN UP FORM */
+.signup-form {
+    background-color: transparent;
+    width: 25%;
+    height: 25%;
+    margin: auto;
+}
+
+.signup-form label {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: 10px;
+}
+
+.signup-form input {
+    box-shadow: 5px 5px 5px grey;
+    width: 90%;
+    height: 30px;
+    margin: 10px;
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+.signup-form h1 {
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
