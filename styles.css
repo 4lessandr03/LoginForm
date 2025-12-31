@@ -5,66 +5,71 @@ body {
 /* LOGIN FORM */
 .login-form {
     background-color: transparent;
-    width: 25%;
-    height: 25%;
+    width: 50%;
+    height: 50%;
     margin: auto;
+    text-align: center;
 }
 
 .login-form label {
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
-    margin: 10px;
+    margin: 1%;
 }
 
 .login-form input {
     box-shadow: 5px 5px 5px grey;
-    width: 90%;
-    height: 30px;
-    margin: 10px;
+    width: 50%;
+    height: 1.5rem;
+    margin: auto;
+    margin-bottom: 2%;
     border-radius: 15px;
     border-color: transparent;
 }
 
-.login-form h1 {
+.login-form h1{
+    margin-top: 2%;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 }
 
-.login-form a {
+.links a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20%;
+    margin-bottom: 1%;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
-    color: blue;
-    font-size: medium;
-    margin: 40px;
 }
 
 /* SIGN UP FORM */
 .signup-form {
     background-color: transparent;
-    width: 25%;
-    height: 25%;
+    width: 50%;
+    height: 50%;
     margin: auto;
+    text-align: center;
 }
 
 .signup-form label {
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
-    margin: 10px;
+    margin: 1%;
 }
 
 .signup-form input {
     box-shadow: 5px 5px 5px grey;
-    width: 90%;
-    height: 30px;
-    margin: 10px;
+    width: 50%;
+    height: 1.5rem;
+    margin: auto;
+    margin-bottom: 2%;
     border-radius: 15px;
     border-color: transparent;
 }
 
 .signup-form h1 {
-    margin-top: 50px;
+    margin-top: 2%;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 }
